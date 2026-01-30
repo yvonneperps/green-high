@@ -4,18 +4,15 @@ A simple HTML-based website created to share school news, events, and updates wi
 
 ---
 
-## 📌 Features
-- Static HTML pages for easy setup
+##  Features
+- Static HTML page for easy setup
 - Homepage with school news and announcements
 - Simple navigation links
 - Lightweight and accessible design
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Edge, Safari)
+##  Getting Started
 
 ### Installation
 1. Clone the repository:
